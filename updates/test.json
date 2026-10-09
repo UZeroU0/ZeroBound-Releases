@@ -1,26 +1,26 @@
 {
   "schema": 1,
-  "publishedAt": 1791489375505,
+  "publishedAt": 1791512316446,
   "release": {
-    "id": "994827c3-1235-4d9f-b6bb-44ce7bc7b7c0",
-    "version": "0.0.25",
+    "id": "db2bf077-d627-4266-9896-2061d0deec5e",
+    "version": "0.0.26",
     "channel": "test",
     "packages": [
       {
         "platform": "windows",
         "arch": "x64",
-        "filename": "zerobound-windows-0.0.25-x64.exe",
-        "size": 25450758,
-        "sha256": "dcbe0502a18793e30b73873d629dc0a273555d1a8c19ca21055443a5cb214d4f",
-        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.25/zerobound-windows-0.0.25-x64.exe"
+        "filename": "zerobound-windows-0.0.26-x64.exe",
+        "size": 29941931,
+        "sha256": "24637bd4f03e270ad601e9caefe2c326821fb5814dcbc4062e58eb5b177f7215",
+        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.26/zerobound-windows-0.0.26-x64.exe"
       },
       {
         "platform": "android",
         "arch": "arm64",
-        "filename": "zerobound-android-0.0.25-arm64.apk",
-        "size": 48628799,
-        "sha256": "cefe492c464e3b3190af401c0774d88c22c8c8980c2c18dd05d75ad4f30e9ea4",
-        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.25/zerobound-android-0.0.25-arm64.apk"
+        "filename": "zerobound-android-0.0.26-arm64.apk",
+        "size": 85201983,
+        "sha256": "fe7370e1581a5f35552a96aec82b48af79357f5a6b10b869be19b561ec13d829",
+        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.26/zerobound-android-0.0.26-arm64.apk"
       }
     ]
   }
