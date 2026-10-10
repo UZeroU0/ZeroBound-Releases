@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "publishedAt": 1791604212562,
+  "release": {
+    "id": "1b06faad-1417-44cc-a42f-200ffe31b422",
+    "version": "0.0.2",
+    "channel": "test",
+    "packages": [
+      {
+        "platform": "windows",
+        "arch": "x64",
+        "filename": "zerobound-windows-0.0.2-x64.exe",
+        "size": 29165265,
+        "sha256": "f3b71f6597af4fdd3bdc361ae7a92a1d9a8b48e8ea5c0ab7cb5b970098061e17",
+        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.2/zerobound-windows-0.0.2-x64.exe"
+      },
+      {
+        "platform": "android",
+        "arch": "arm64",
+        "filename": "zerobound-android-0.0.2-arm64.apk",
+        "size": 57746495,
+        "sha256": "7d1a88d4a13a91621567082b861b4aa4a6332a6b6ac0bddf48cbe5efa5afa22c",
+        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.2/zerobound-android-0.0.2-arm64.apk"
+      }
+    ]
+  }
+}
