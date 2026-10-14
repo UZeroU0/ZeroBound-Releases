@@ -1,26 +1,27 @@
 {
   "schema": 1,
-  "publishedAt": 1791621918086,
+  "publishedAt": 1791924300700,
   "release": {
-    "id": "eb1bb70b-5814-4970-899a-8ea1d01c0dc3",
-    "version": "0.0.3",
+    "id": "fd12d338-3b3c-47e9-87cd-aeea376fc3f0",
+    "version": "0.0.62",
     "channel": "test",
+    "notes": "迁移至 zerobound.space 东京服务，账号、控制、信令与在线更新统一使用 HTTPS 域名。",
     "packages": [
       {
         "platform": "windows",
         "arch": "x64",
-        "filename": "zerobound-windows-0.0.3-x64.exe",
-        "size": 28763940,
-        "sha256": "a3a9646dc8be23fdb8e96be5ed2f562289197cb8a208a10a16f541d38b5be59a",
-        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.3/zerobound-windows-0.0.3-x64.exe"
+        "filename": "zerobound Setup 0.0.62.exe",
+        "size": 33506710,
+        "sha256": "b762c69c15cb80f1e164a488817a6652f2e18c0a161c91c684f36485bee85944",
+        "url": "https://zerobound.space/v1/updates/download/fd12d338-3b3c-47e9-87cd-aeea376fc3f0/windows/x64/b762c69c15cb80f1e164a488817a6652f2e18c0a161c91c684f36485bee85944.exe"
       },
       {
         "platform": "android",
         "arch": "arm64",
-        "filename": "zerobound-android-0.0.3-arm64.apk",
-        "size": 58422335,
-        "sha256": "d4f353b2b323fa53a9ff77c0cc7f51e7405d5791e9ef1c65a6f592f52996c63a",
-        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.3/zerobound-android-0.0.3-arm64.apk"
+        "filename": "zerobound Android 0.0.62-arm64-v8a-test.apk",
+        "size": 61699247,
+        "sha256": "f8a594b8498b068c8c70eab60cc296b1840a1efc81af424a1fc56e7bb3bde651",
+        "url": "https://zerobound.space/v1/updates/download/fd12d338-3b3c-47e9-87cd-aeea376fc3f0/android/arm64/f8a594b8498b068c8c70eab60cc296b1840a1efc81af424a1fc56e7bb3bde651.apk"
       }
     ]
   }
