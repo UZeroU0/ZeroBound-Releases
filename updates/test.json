@@ -1,26 +1,34 @@
 {
   "schema": 1,
-  "publishedAt": 1791985314772,
+  "publishedAt": 1793107367904,
   "release": {
-    "id": "33839551-b0bc-4280-aadd-581422e195ed",
-    "version": "0.0.66",
+    "id": "9f8cabcb-39cf-4c59-bd53-6775f7b792c6",
+    "version": "0.0.159",
     "channel": "test",
     "packages": [
       {
         "platform": "windows",
         "arch": "x64",
-        "filename": "zerobound-windows-0.0.66-x64.exe",
-        "size": 48893302,
-        "sha256": "85a3e21bdda745ab190c556d82a9dbbe0d9d724fe6e112e318ac861a4afd53e5",
-        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.66/zerobound-windows-0.0.66-x64.exe"
+        "filename": "zerobound-windows-0.0.159-x64.exe",
+        "size": 53413478,
+        "sha256": "43e3632c35d865b468f09911cf68c1b80a5272edb8596605f0445cab4ad3d857",
+        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.159/zerobound-windows-0.0.159-x64.exe"
       },
       {
         "platform": "android",
         "arch": "arm64",
-        "filename": "zerobound-android-0.0.66-arm64.apk",
-        "size": 62203055,
-        "sha256": "97264c103b65ebcd7f1c2917bd461ddf8c4aa9ab702264ba2b9636d02e6c41a5",
-        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.66/zerobound-android-0.0.66-arm64.apk"
+        "filename": "zerobound-android-0.0.159-arm64.apk",
+        "size": 75359407,
+        "sha256": "30f24a7750d2fd4fe03125ab643607d449152a70aecc10e160c6f76cc3bc8660",
+        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.159/zerobound-android-0.0.159-arm64.apk"
+      },
+      {
+        "platform": "macos",
+        "arch": "arm64",
+        "filename": "zerobound-macos-0.0.159-arm64.dmg",
+        "size": 47048155,
+        "sha256": "b117c145f7d3d04e201036474cedcfa50c7eaaf2a7576dad865695b79d4124e6",
+        "url": "https://github.com/UZeroU0/ZeroBound-Releases/releases/download/test-0.0.159/zerobound-macos-0.0.159-arm64.dmg"
       }
     ]
   }
